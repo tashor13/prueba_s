@@ -1,4 +1,2 @@
-Lista de Lugares
-![image](https://github.com/user-attachments/assets/981c0526-458d-4d28-896e-dddc8f9e22b8)
-![image](https://github.com/user-attachments/assets/6f48dc24-c920-4b9c-8db7-6ab7e4eca310)
-![image](https://github.com/user-attachments/assets/c191c063-6abe-4011-8f6a-cbb9e5ec1a8c)
+![image](https://github.com/user-attachments/assets/95900a3a-5b41-423e-b0a3-27efce3f7882)
+![image](https://github.com/user-attachments/assets/87178c5d-6990-4f95-a05b-d7a969ce4a72)
